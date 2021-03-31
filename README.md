@@ -1,4 +1,4 @@
-# Matematica Game Python
+# Matemática Game Python
 Este é um mini jogo desenvolvido em python, onde o usuário escolhe a dificuldade que quer ao jogar.
 Esta dificulade varia entre 1 e 4, onde um são operações com números aleatórios entre 0 e 10 e 4 são operações com números entre (0 e 10000), caos o usuário escolha outro número que não estaja no intervalo de [1, 4],
 as operações serão feitas com números aleatórios entre 0 e 100000.
